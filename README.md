@@ -16,6 +16,8 @@ Welcome to this educational repository on **Text Classification**! This project 
 
 ## Introduction
 
+[⬆ Back to top](#-table-of-contents)
+
 **Text Classification** is the task of assigning predefined categories or labels to text documents. It's one of the most fundamental tasks in NLP and has numerous real-world applications.
 
 ### What You'll Learn
@@ -27,6 +29,8 @@ Welcome to this educational repository on **Text Classification**! This project 
 - Best practices and evaluation metrics
 
 ## Text Labeling Methods
+
+[⬆ Back to top](#-table-of-contents)
 
 ### Manual Labeling
 
@@ -66,6 +70,8 @@ Automatic labeling uses algorithms to assign labels without human intervention:
    - Human-in-the-loop
 
 ## Common Use Cases
+
+[⬆ Back to top](#-table-of-contents)
 
 ### 1. Sentiment Analysis
 Determine the emotional tone of text (positive, negative, neutral).
@@ -112,6 +118,8 @@ Identify the language of a text.
 
 ## Project Structure
 
+[⬆ Back to top](#-table-of-contents)
+
 ```
 text_classification/
 ├── README.md                          # This file
@@ -143,6 +151,8 @@ text_classification/
 ```
 
 ## Getting Started
+
+[⬆ Back to top](#-table-of-contents)
 
 ### Prerequisites
 
@@ -181,6 +191,8 @@ python use_cases/spam_detection.py
 ```
 
 ## Examples
+
+[⬆ Back to top](#-table-of-contents)
 
 ### Example 1: Simple Sentiment Classification
 
@@ -230,6 +242,8 @@ labeler.label_dataset("data/sample_reviews.csv", output="labeled_data.csv")
 
 ## 📊 Evaluation Metrics
 
+[⬆ Back to top](#-table-of-contents)
+
 All examples include comprehensive evaluation:
 - **Accuracy**: Overall correctness
 - **Precision**: Positive prediction accuracy
@@ -238,6 +252,8 @@ All examples include comprehensive evaluation:
 - **Confusion Matrix**: Detailed error analysis
 
 ## 🛠️ Technologies Used
+
+[⬆ Back to top](#-table-of-contents)
 
 - **scikit-learn**: Traditional ML algorithms
 - **transformers**: Pre-trained language models
@@ -248,6 +264,8 @@ All examples include comprehensive evaluation:
 
 ## 📚 Learning Path
 
+[⬆ Back to top](#-table-of-contents)
+
 1. **Start with basics**: Read through the manual labeling examples
 2. **Understand automation**: Explore automatic labeling techniques
 3. **Practice with use cases**: Implement sentiment analysis, spam detection
@@ -255,6 +273,8 @@ All examples include comprehensive evaluation:
 5. **Build your own**: Create a custom classifier for your domain
 
 ## Additional Resources
+
+[⬆ Back to top](#-table-of-contents)
 
 - [scikit-learn Text Classification Tutorial](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/)
