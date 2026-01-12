@@ -12,7 +12,7 @@ Welcome to this educational repository on **Text Classification**! This project 
 4. [Project Structure](#project-structure)
 5. [Getting Started](#getting-started)
 6. [Examples](#examples)
-7. [Resources](#resources)
+7. [Additional Resources](#additional-resources)
 
 ## 🎯 Introduction
 
