@@ -14,7 +14,7 @@ Welcome to this educational repository on **Text Classification**! This project 
 6. [Examples](#examples)
 7. [Additional Resources](#additional-resources)
 
-## 🎯 Introduction
+## Introduction
 
 **Text Classification** is the task of assigning predefined categories or labels to text documents. It's one of the most fundamental tasks in NLP and has numerous real-world applications.
 
@@ -26,7 +26,7 @@ Welcome to this educational repository on **Text Classification**! This project 
 - Traditional ML and modern deep learning approaches
 - Best practices and evaluation metrics
 
-## 🏷️ Text Labeling Methods
+## Text Labeling Methods
 
 ### Manual Labeling
 
@@ -65,7 +65,7 @@ Automatic labeling uses algorithms to assign labels without human intervention:
    - Query strategies
    - Human-in-the-loop
 
-## 💼 Common Use Cases
+## Common Use Cases
 
 ### 1. Sentiment Analysis
 Determine the emotional tone of text (positive, negative, neutral).
@@ -110,7 +110,7 @@ Identify the language of a text.
 - Translation services
 - Content filtering
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 text_classification/
@@ -142,7 +142,7 @@ text_classification/
     └── 04_complete_pipeline.ipynb    # End-to-end pipeline
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -180,7 +180,7 @@ Run the spam detection example:
 python use_cases/spam_detection.py
 ```
 
-## 📖 Examples
+## Examples
 
 ### Example 1: Simple Sentiment Classification
 
@@ -254,7 +254,7 @@ All examples include comprehensive evaluation:
 4. **Advanced topics**: Dive into transfer learning and active learning
 5. **Build your own**: Create a custom classifier for your domain
 
-## 📖 Additional Resources
+## Additional Resources
 
 - [scikit-learn Text Classification Tutorial](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/)
