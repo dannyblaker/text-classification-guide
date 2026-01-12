@@ -1,0 +1,150 @@
+# Python
+*.py[cod]
+*$py.class
+*.so
+__pycache__/
+*.pyc
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+.virtualenv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Machine Learning / Data Science
+*.csv
+*.tsv
+*.json
+*.jsonl
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.parquet
+*.feather
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+*.model
+*.weights
+models/
+checkpoints/
+
+# Large data directories
+data/
+datasets/
+raw_data/
+processed_data/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# spaCy models
+*.spacy/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Annotations/Labels (optional - uncomment if you want to track these)
+# annotations/
+# labels/
+# labeled_data/
